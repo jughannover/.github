@@ -1,13 +1,9 @@
 = Java User Group Hannover
 
-++++
-<div align="right" float="right">
-  <img width="200" height="200" alt="java user group hannover logo" src="https://github.com/user-attachments/assets/18590c30-c287-4c63-be69-4f511be8aa72" float="right"/>
-</div>
-++++
+:figure-caption!:
 
-Treffen, Vorträge und Austausch für Java-Entwickler in Hannover und Umgebung.
-
-++++
-<div float="clear" />
-++++
+[cols="1,>1",frame=none,grid=none]
+|===
+|Treffen, Vorträge und Austausch für Java-Entwickler in Hannover und Umgebung
+|image:https://github.com/user-attachments/assets/18590c30-c287-4c63-be69-4f511be8aa72[title="Java User Group Hannover",link=https://jug-h.de/]
+|===
